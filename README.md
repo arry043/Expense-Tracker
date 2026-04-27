@@ -22,7 +22,7 @@
 
 | Dashboard | Add Expense |
 |-----------|-------------|
-| ![Dashboard](./screenshots/dashboard.png) | ![Add Expense](./screenshots/add-expense.png) |
+| ![Dashboard](./assets/Dashboard.png) | ![Add Expense](./screenshots/add-expense.png) |
 
 ---
 
